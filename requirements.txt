@@ -1,8 +1,0 @@
-langchain
-faiss-cpu
-streamlit
-pypdf
-unstructured
-chromadb
-ollama
-langchain-community
